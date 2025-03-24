@@ -270,19 +270,34 @@ Penjelasan:
 ## Dokumentasi Output:
 
 **UI/ Display Menu Function**
-![image alt]()
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-23%20210004.png)
 
 **List Mahasiswa**
-![image alt]()
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141105.png)
 
 **Menambahkan Mahasiswa**
-![image alt]()
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141140.png)
+
+di list mahasiswa setelah ditambahkan:
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141153.png)
 
 **Menghapus Mahasiswa**
-![image alt]()
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141210.png)
+
+di list mahasiswa setelah dihapus:
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141218.png)
+
+**Mengurutkan mahasiswa berdasarkan nama (DESCENDING):**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141836.png)
+
+**Mengurutkan mahasiswa berdasarkan phone (ASCENDING):**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141844.png)
+
+**Mencari mahasiswa berdasarkan nomor telepon:**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141901.png)
 
 **Keluar dari Program**
-![image alt]()
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/61ce2183ea9cf76a98e9162ceb8af10593e86494/asetgambar/Screenshot%202025-03-24%20141227.png)
 
 # Latihan 2
 _**Membuat Daftar Barang**_
