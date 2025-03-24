@@ -310,7 +310,8 @@ _**Membuat Daftar Barang**_
 - Tambah fungsi khusus, misalnya untuk menampilkan barang kategori tertentu
 
 ## Gambar untuk data class barang:
-![image alt]()
+
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142316.png)
 
 ## Jawaban: `linkedlistbarang.cpp`
 
@@ -541,10 +542,26 @@ Penjelasan:
 ## Dokumentasi Output:
 
 **Tampilan UI/Menu:**
-![image alt]()
+
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-23%20211014.png)
 
 **Tampilan List Barang:**
-![image alt]()
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142023.png)
+
+**Daftar Barang setelah diurutkan berdasarkan nama (ASCENDING):**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142035.png)
+
+**Daftar Barang setelah diurutkan berdasarkan harga jual (DESCENDING):**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142055.png)
+
+**Mencari Barang berdasarkan kode barang:**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142127.png)
+
+**Menampilkan kategori barang yang ingin ditampilkan:** `atk`
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142143.png)
+
+**Keluar Program:**
+![image alt](https://github.com/sipalingnub/OOP-LINKEDLIST/blob/f5f30ef53e27cde5c65f804bdfd5b69a571306ed/asetgambar/Screenshot%202025-03-24%20142149.png)
 
 
 
