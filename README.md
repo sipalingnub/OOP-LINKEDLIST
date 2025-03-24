@@ -19,7 +19,7 @@ _**Membuat Daftar Mahasiswa**_
 - Tambahkan method: Search berdasarkan nama.
 - Dsb.
 
-## Jawaban:
+## Jawaban: `linkedliststudent.cpp`
 Pertama-tama saya menggunakan ANSI escape codes yang digunakan untuk hiasan warna.
 ```cpp
 #define RESET   "\033[0m"
@@ -297,7 +297,7 @@ _**Membuat Daftar Barang**_
 ## Gambar untuk data class barang:
 ![image alt]()
 
-## Jawaban:
+## Jawaban: `linkedlistbarang.cpp`
 
 Pertama-tama saya menggunakan library seperti berikut:
 ```cpp
